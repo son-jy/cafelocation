@@ -1,6 +1,6 @@
 # 카페 창업을 위한 서울시 상권 입지 분석
-● 기간 : 2024.9.9 ~ 2024.10.18
-● 인원 : 4명
+● 기간 : 2024.9.9 ~ 2024.10.18 <br>
+● 인원 : 4명 <br>
 ● 기술 : Python, Jupyter, Pandas, scikit-learn, numpy, matplotlib, seaborn, Folium
 
 ## 프로젝트 개요
