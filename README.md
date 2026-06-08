@@ -2,7 +2,7 @@
 - 기간 : 2024.9.9 ~ 2024.10.18
 - 인원 : 4명
 - 역할 : 컨셉 기획 및 도출, 군집 분석, 그룹별 특성 세부 분석, 발표 자료 제작
-- 기술 : Python, Jupyter, Pandas, scikit-learn, numpy, matplotlib, seaborn, Folium
+- 기술 : `Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
 
 
 ## 프로젝트 개요
