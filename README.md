@@ -3,6 +3,7 @@
 - 인원 : 4명
 - 역할 : 컨셉 기획 및 도출, 군집 분석, 그룹별 특성 세부 분석, 발표 자료 제작
 - 기술 : `Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
+- 설명 : 예비 카페 사장님들의 영업 방향성과 타겟 고객층을 고려한 상권 군집 분석
 
 
 ## 프로젝트 개요
